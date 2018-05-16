@@ -5,10 +5,8 @@ struct BinaryTreeNode
 	BinaryTreeNode* m_pRight;
 };
 
-
 // 12.1-3:实现中序遍历的非递归算法，采用栈来进行实现，为了思维的扩展，
 //下面实现了中序遍历、前序遍历和后续遍历的非递归实现方式
-
 
 #include "stdafx.h"
 #include <stdlib.h>
