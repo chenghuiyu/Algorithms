@@ -35,7 +35,6 @@ void InorderTree(BinaryTreeNode* treeRoot) {
 	}
 }
 
-
 //前序遍历的非递归调用
 
 void PreorderTree(BinaryTreeNode* treeRoot) {
