@@ -13,7 +13,6 @@ struct BinaryTreeNode
 
 using namespace std;
 
-
 //中序遍历的递归实现方式
 
 void InOrderBinaryTree(BinaryTreeNode* treeRoot) {
